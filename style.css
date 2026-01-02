@@ -1,0 +1,32 @@
+body{
+            background-color: blueviolet;
+          }
+ ul{
+            background-color:black;
+            width:50%
+            
+            
+        }
+        li{
+            color:greenyellow
+        }
+        span{
+            color:azure
+        }
+        .first{
+            color:aqua;
+            font-size: 20px;
+            border: 1px solid white;
+            width: 50%;
+            border-radius: 6px;
+            padding: 8px;
+            text-align: center;
+            box-shadow: 1px 1px 1px 1px rgb(134, 125, 125);
+        }
+       div{
+        display: inline;
+       }
+       .text{
+        color:white
+       }
+       .
